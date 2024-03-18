@@ -1,4 +1,4 @@
-AAAAAa
+AAAAAabbb
 
 # Nuxt 3 Minimal Starter
 
